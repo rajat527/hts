@@ -12,7 +12,7 @@ require("dotenv").config();
 
 // Database connection
 mongoose.connect(
-  "mongodb://localhost:27017/hts_db", 
+  MONGODB_URI, 
   {
       useNewUrlParser: true,
       useUnifiedTopology: true
