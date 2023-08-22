@@ -305,7 +305,11 @@ for (let i = 0; i < arr.length; i++) {
 
 console.log(arr);
 */
-
+/*
+Could you please provide me with the BharatPe login credentials and AWS secret key so that I can proceed with checking the further workflow?
+Having successfully validated all the workflows, what should be my next step? Should I proceed with PhonePe scraping, or explore another payment provider?"
+Good morning! I'm good, how about you?
+*/
 
 /*
 
