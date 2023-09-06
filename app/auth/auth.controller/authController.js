@@ -315,6 +315,8 @@ Currently, I am working on the IndiaPe project, but I haven't received the ticke
 Can i come  to discuss related to project workflow
 Could you please provide me with the name of the person who gave me the project description?
 Do I need to work on the same project this week as well?
+
+I believe my bank account is not active for ATM use; it's displaying a message that my number is not registered. Additionally, when I attempt to log in via mobile, I still encounter the same message."
 */
 
 /*
